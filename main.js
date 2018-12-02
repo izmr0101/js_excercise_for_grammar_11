@@ -13,7 +13,7 @@ const cat = {
     name: 'ごんちゃん',
     age: 10,
     sex: 'メス'
-}
+};
 
 // ここでconsole.logを使ってcatオブジェクトの内容を出力する
 console.log('課題1で作ったcatオブジェクト', cat);
